@@ -5,6 +5,12 @@
 
 This project plays the Soviet Union National Anthem using an Arduino and a passive buzzer. A fun, beginner-friendly microcontroller project designed for educational, nostalgic, or entertainment purposes. All note frequencies are embedded directly within the code — no extra files required.
 
+## 🏛️ Why the Soviet Anthem?
+
+The Soviet Anthem is globally recognized for its grand, commanding sound. This project brings that historic tune to life with minimal electronics — blending nostalgia with hands-on learning.
+
+⚠️ Note: This is purely for educational and entertainment purposes — no political affiliations implied.
+
 ---
 
 ## 🚩 Features
@@ -77,14 +83,6 @@ You can easily:
 ✔ Change the melody by editing the `melody[]` and `noteDurations[]` arrays  
 ✔ Add LEDs or other components with `digitalWrite()` commands  
 ✔ Control looping behavior by adjusting code placement  
-
----
-
-## 🏛️ Why the Soviet Anthem?
-
-The Soviet Anthem is globally recognized for its grand, commanding sound. This project brings that historic tune to life with minimal electronics — blending nostalgia with hands-on learning.
-
-⚠️ Note: This is purely for educational and entertainment purposes — no political affiliations implied.
 
 ---
 
