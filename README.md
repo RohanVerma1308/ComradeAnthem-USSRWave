@@ -42,7 +42,7 @@ You can modify the `buzzerPin` in the code for different setups.
 
 ---
 
-## 📸 Screenshot
+## 📸 Circuit Diagram
 ![ComradeAnthem-USSRWave Photo](https://github.com/user-attachments/assets/488adfe4-1904-4408-83db-4f5a311129e5)
 
 ---
