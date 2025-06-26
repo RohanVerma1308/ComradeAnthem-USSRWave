@@ -103,15 +103,6 @@ It is not affiliated with or intended to promote any political ideologies.
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute this project with proper attribution.  
-
-For full license details, see the [LICENSE](LICENSE) file.
-
----
-
 ## 🎯 Project Motivation
 
 This project was created as a fun way to combine electronics, music, and programming using Arduino. It provides a hands-on example of how microcontrollers can be used to generate recognizable melodies through simple components like buzzers.
@@ -147,13 +138,9 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 📢 Feedback & Support
+## 📄 License
 
-For questions, suggestions, or issues, feel free to open an issue on this repository.  
-
-**Happy Building, Comrade! 🚩**
-
----
+This project is licensed under the **MIT License**. You are free to use the code for learning purposes. Redistribution or commercial use is allowed with attribution.
 
 ```
 MIT License
@@ -172,6 +159,11 @@ copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.  
 ```
+---
+## 📢 Feedback & Support
+
+For questions, suggestions, or issues, feel free to open an issue on this repository.  
+
+**Happy Building, Comrade! 🚩**
 
 ---
-
